@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "DeathTextString": "fue matado por",
   "SCP008String": "SCP-008",
   "UnknownString": "una fuente desconocida",
@@ -53,6 +53,11 @@
   "MainMenuPlayServerListString": "LISTA DE SERVIDORES",
   "MainMenuPlayFriendsString": "AMIGOS",
   "MainMenuSteamLobbyString": "Vestíbulo de Steam",
+  "LobbyWaitingForMasterString": "El juego comenzará pronto.\nEsperando al maestro del lobby...",
+  "LobbyNotEnoughPlayersString": "Aún no hay suficientes jugadores para empezar (mínimo: %MINIMUMPLAYERS% jugadores)",
+  "LobbyStartingInString": "Empezando en %TIMER% segundos",
+  "LobbyStartingNowString": "¡Comenzando ahora!",
+  "LobbyStartVoteCountString": "%VOTECOUNT% fuera de %VOTEMIN% jugador(s) han votado, %STILLNEEDEDVOTES% se requieren votos adicionales",
   "NPCNames": {},
   "MissionNames": {}
 }
